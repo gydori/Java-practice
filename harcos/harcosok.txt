@@ -1,0 +1,3 @@
+Harcos;10;30
+Harcos;15;100
+Nagydarab;20;80;30
